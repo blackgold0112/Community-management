@@ -1,4 +1,3 @@
-[english](Readme_en.md)
 ## Introduction
  HC community management system is a set of saas property management system, including real estate, owners, fees (payment can be made online), repair application (repair can be reported online), complaints and suggestions, procurement, inspection, parking, gates, gates, monitoring , workflow, questionnaires, and announcements.
  
